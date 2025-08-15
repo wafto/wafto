@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aftab Hussain Miranda</h1>
-<h4 align="center">Skilled developer with more than 15 years of experience on the backend and frontend, passionate about technologies, helping people to develop their potential, constantly learning about architectures, and with decision making capacity.</h4>
+<p>Accomplished Senior Developer with over 15 years of experience delivering innovative, high-quality solutions across a
+variety of projects, from conceptualization to deployment. Expertise spans the full software development lifecycle,
+including both backend and frontend development, utilizing a diverse range of technologies and frameworks. Known for
+a strong problem-solving mindset, attention to detail, and ability to quickly master new tools and methodologies.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wafto&label=Profile%20views&color=0e75b6&style=flat" alt="wafto" /> </p>
 
